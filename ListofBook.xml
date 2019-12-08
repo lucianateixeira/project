@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+	<section name="Self Help">
+	<book audiobook="true" kindle="true">
+		<item>The Power of Now</item>
+		<price>6.54</price>
+		<page>258</page>
+		<author>Eckhart Tolle</author>
+		<publisher>Yellow Kite</publisher>
+		<review>4.4</review>
+</book>
+<book audiobook="true" kindle="true">
+		<item>F*ck it</item>
+		<price>7.91</price>
+		<page>777</page>
+		<author>John C. Park</author>
+		<publisher>Hey House UK</publisher>
+		<review>4.3</review>
+</book>
+<book audiobook="true" kindle="true">
+		<item>Girl Code</item>
+		<price>9.99</price>
+		<page>176</page>
+		<author>Cara Alwill Leyba</author>
+		<publisher>Penguin</publisher>
+		<review>4.4</review>
+</book>
+</section>
+<section name="Science and Technology">
+	<book audiobook="true" kindle="true">
+		<item>Homo Sapiens</item>
+		<price>6.59</price>
+		<page>512</page>
+		<author>Yuval Noah Harari</author>
+		<publisher>Vintage</publisher>
+		<review>4.6</review>
+</book>
+<book audiobook="true" kindle="true">
+		<item>Hello World</item>
+		<price>6.47</price>
+		<page>256</page>
+		<author>Hannah Fry</author>
+		<publisher>Double Day</publisher>
+		<review>4.7</review>
+</book>
+<book audiobook="true" kindle="true">
+		<item>Link: How Decision Intelligence Connects Data, Actions, and Outcomes for a Better World</item>
+		<price>16.99</price>
+		<page>220</page>
+		<author>Lorien Pratt</author>
+		<publisher>Emerald Publishing Limited</publisher>
+		<review>5.0</review>
+</book>
+</section>
+<section name="Classics">
+	<book audiobook="true" kindle="true">
+		<item>1984</item>
+		<price>6.29</price>
+		<page>400</page>
+		<author>George Orwell</author>
+		<publisher>Penguin</publisher>
+		<review>4.6</review>
+</book>
+<book audiobook="true" kindle="true">
+		<item>The Great Gatsby</item>
+		<price>2.25</price>
+		<page>144</page>
+		<author>F.Scott Fitzgerald</author>
+		<publisher>Wordsworth Editions</publisher>
+		<review>4.2</review>
+</book>
+<book audiobook="true" kindle="true">
+		<item>The picture of Dorian Gray</item>
+		<price>11.32</price>
+		<page>252</page>
+		<author>Oscar Wilde</author>
+		<publisher>Penguin</publisher>
+		<review>4.4</review>
+</book>
+</section>
+  </library>
+
+
+
+	
