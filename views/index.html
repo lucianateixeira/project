@@ -9,16 +9,12 @@
 	<title>IWA Demo App</title>
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
-	<link href="css/PaddysCafeStyles.css" rel="stylesheet">
-    <script src="js/PaddysCafeCode.js"></script>
+	<link href="css/BookStyle.css" rel="stylesheet">
+    <script src="js/BookCode.js"></script>
     <script>
         window.addEventListener("load", function() {
-            document.forms[1].txtBillAmt.value = calculateBill('menuTable');
-            document.querySelector("#calcBill").addEventListener("click", function() {
-                document.forms[1].txtBillAmt.value = calculateBill('menuTable');
-            });
-            document.querySelector("#showVeg").addEventListener("click", function() {
-                highlightVegetarian('menuTable', this.checked);
+            document.querySelector("#showAudio").addEventListener("click", function() {
+                highlightaudioBook('menuTable', this.checked);
             });
         });
     </script>
